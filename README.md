@@ -1,5 +1,5 @@
-![Screenshot 2024-05-07 130452](https://github.com/Anandswamy18/Google-Keep-Using-Next-Js/assets/130043485/c4ac6430-7a4e-4145-a3a1-509a839e9997)
-![Screenshot 2024-05-07 130452](https://github.com/Anandswamy18/Google-Keep-Using-Next-Js/assets/130043485/7d92e4e1-582f-4efd-b99b-35139aab4f4d)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
