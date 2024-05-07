@@ -37,4 +37,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Google-Keep-Using-Next-Js
-# Google-Keep-Using-Next-Js
+
+# screen shots
+![Screenshot 2024-05-07 130452](https://github.com/Anandswamy18/Google-Keep-Using-Next-Js/assets/130043485/6f14e5fd-a68a-4ec4-8d09-bd7c0782b5b8)
